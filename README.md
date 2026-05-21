@@ -1,0 +1,1 @@
+En este ejercicio se usa un BorderPane como layout, que divide la ventana en 5 zonas: arriba, abajo, izquierda, derecha y centro.En este ejercicio se usa un BorderPane como layout, que divide la ventana en 5 zonas: arriba, abajo, izquierda, derecha y centro. En cada zona se coloca un botón con su nombre y se centra dentro de su región con setAlignment.
